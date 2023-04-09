@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/yctk
+yctk.so
+yctk.dylib
+yctk.dll
+yctk.a
+yctk.lib
+yctk-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
